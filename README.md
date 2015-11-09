@@ -23,6 +23,9 @@
 * [Make Sense of your Logs: From Zero to Hero in less than an Hour! by Britta Weber](https://www.youtube.com/watch?v=8vgTBIoF8zs) demonstrates how you can build Elasticsearch + Logstash + Kibana stack to collect and discover your data
 
 ## Articles
+## Scalable Infrastructure and performance
+* [Scaling Elasticsearch to Hundreds of Developers](http://engineeringblog.yelp.com/2014/11/scaling-elasticsearch-to-hundreds-of-developers.html) by Joseph Lynch @yelp 
+
 ### Alerts
 * [ElastAlert: Alerting At Scale With Elasticsearch, Part 1](http://engineeringblog.yelp.com/2015/10/elastalert-alerting-at-scale-with-elasticsearch.html) by engineeringblog.yelp.com
 
@@ -32,12 +35,12 @@
 ### Use cases for elastic search
 * [Data Infrastructure at IFTTT](http://engineering.ifttt.com/data/2015/10/14/data-infrastructure/) Elasticsearch, Kafka, Apache Spark, Redhsift, other AWS services 
 
-### Who is using elasticsearch?
+## Who is using elasticsearch?
 [Yelp](http://engineeringblog.yelp.com/2015/10/how-we-use-deep-learning-to-classify-business-photos-at-yelp.html),
 [IFTTT](http://engineering.ifttt.com/data/2015/10/14/data-infrastructure/),
 [StackExchange](http://stackexchange.com/performance)
 
  
 #### ← [Awesome TypeScript](https://github.com/dzharii/awesome-typescript) -= Awesome Elasticsearch =- 
-# General
+
 
