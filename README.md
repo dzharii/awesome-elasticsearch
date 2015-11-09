@@ -1,3 +1,4 @@
+#### ← [Awesome TypeScript](https://github.com/dzharii/awesome-typescript) -= Awesome Elasticsearch =- 
 # General
 
 ## ELK Stack
