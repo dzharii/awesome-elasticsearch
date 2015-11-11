@@ -15,8 +15,9 @@
 
 ## Elasticsearch developer tools and utilities
  
-* [Sense](https://github.com/elastic/sense/#sense) A JSON aware developer console to ElasticSearch; official and very powerful
- 
+* [Sense (from Elastic)](https://github.com/elastic/sense/#sense) A JSON aware developer console to ElasticSearch; official and very powerful
+* [Sense (Google Chrome extension)](https://chrome.google.com/webstore/detail/sense-beta/lhjgkmllcaadmopgmanpapmpjgmfcfig?hl=en) A JSON aware developer console to ElasticSearch; unofficial but very powerful
+
 ## Elasticsearch plugins
 ### Cluster
 * [mobz/elasticsearch-head](https://github.com/mobz/elasticsearch-head) is a powerful and essential plugin for managing your cluster, indices and mapping
