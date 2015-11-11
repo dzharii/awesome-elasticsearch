@@ -16,6 +16,7 @@
 ## Elasticsearch developer tools and utilities
  
 * [Sense (Google Chrome extension)](https://chrome.google.com/webstore/detail/sense-beta/lhjgkmllcaadmopgmanpapmpjgmfcfig?hl=en) A JSON aware developer console to ElasticSearch; unofficial but very powerful
+* [esbulk](https://github.com/miku/esbulk) Parallel elasticsearch bulk indexing utility for the command line.
  
 ## Elasticsearch plugins
 ### Cluster
