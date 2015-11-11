@@ -1,8 +1,9 @@
 # Awesome Elasticsearch
 
 #### ← [Awesome TypeScript](https://github.com/dzharii/awesome-typescript) -= Awesome Elasticsearch =- 
-# General
+![](https://raw.githubusercontent.com/dzharii/awesome-elasticsearch/master/awesome-elastic-logo.png)
 
+# General
 ## ELK Stack
 * [Elasticsearch](https://www.elastic.co/) official website 
 * [Logstash](https://www.elastic.co/products/logstash) is a data pipeline that helps you process logs and other event data from a variety of systems
@@ -65,7 +66,7 @@
 * Use spellchiker
 * All spelling and grammar corrections are welcome
 * Fork this repo, do your edits, send the pull request
-* Fork this repo, do your edits, send the pull request
+* Feel free to create any new sections
 * Add yourself to the "Contributors" section if you will
 * Do not even try to add this repo to any awesome-awesome-* lists 
 
