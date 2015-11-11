@@ -39,6 +39,10 @@
 * [Make Sense of your Logs: From Zero to Hero in less than an Hour! by Britta Weber](https://www.youtube.com/watch?v=8vgTBIoF8zs) demonstrates how you can build Elasticsearch + Logstash + Kibana stack to collect and discover your data
 
 ## Articles
+## System configuration
+* [The definitive guide for Elasticsearch on Windows Azure](http://code972.com/blog/2014/07/74-the-definitive-guide-for-elasticsearch-on-windows-azure)
+* [ElasticSearch pre-flight checklist](http://asquera.de/opensource/2012/11/25/elasticsearch-pre-flight-checklist/)
+
 ## Scalable Infrastructure and performance
 * [Scaling Elasticsearch to Hundreds of Developers](http://engineeringblog.yelp.com/2014/11/scaling-elasticsearch-to-hundreds-of-developers.html) by Joseph Lynch @yelp 
 
@@ -56,10 +60,18 @@
 ### Use cases for elastic search
 * [Data Infrastructure at IFTTT](http://engineering.ifttt.com/data/2015/10/14/data-infrastructure/) Elasticsearch, Kafka, Apache Spark, Redhsift, other AWS services 
 
+## Videos
+### Overviews
+* [How we scaled Raygun](https://raygun.io/blog/2014/05/talk-how-we-scaled-raygun-using-technologies-like-elastic-search-featuring-iron-man/)
+* [Getting started with ElasticSearch](https://www.youtube.com/watch?v=60UsHHsKyN4&list=PLw5h0DiJ-9PDStvJYc1LOZiEm1ehlEKLP)
+* [Speed is a Key: Elasticsearch under the Hood](https://www.youtube.com/watch?v=vruklYSW4jg) introduction + basic performance optimization
+
 ## Who is using elasticsearch?
 [Yelp](http://engineeringblog.yelp.com/2015/10/how-we-use-deep-learning-to-classify-business-photos-at-yelp.html),
 [IFTTT](http://engineering.ifttt.com/data/2015/10/14/data-infrastructure/),
-[StackExchange](http://stackexchange.com/performance)
+[StackExchange](http://stackexchange.com/performance),
+[Raygun](https://raygun.io/blog/2014/02/search-improvements-at-raygun/),
+[Mozilla](https://www.youtube.com/watch?v=lWKEphKIG8U)
 
 # Contributing
 * Make sure you are about to post a valuable resource that belongs to this list
