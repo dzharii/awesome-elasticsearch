@@ -42,6 +42,7 @@
 * TODO: Put some good twitter accounts
 
 ## Tutorials
+* [Make Sense of your Logs: From Zero to Hero in less than an Hour! • Britta Weber](https://www.youtube.com/watch?v=8vgTBIoF8zs) nice getting started demo for ELK stack
 * [dwyl/learn-elasticsearch](https://github.com/dwyl/learn-elasticsearch) a getting started tutorial with a pack of valuable references
 * [Make Sense of your Logs: From Zero to Hero in less than an Hour! by Britta Weber](https://www.youtube.com/watch?v=8vgTBIoF8zs) demonstrates how you can build Elasticsearch + Logstash + Kibana stack to collect and discover your data
 
