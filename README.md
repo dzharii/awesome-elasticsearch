@@ -15,9 +15,15 @@
 
 ## Elasticsearch developer tools and utilities
  
+### Development and debugging
 * [Sense (from Elastic)](https://github.com/elastic/sense/#sense) A JSON aware developer console to ElasticSearch; official and very powerful
 * [Sense (Google Chrome extension)](https://chrome.google.com/webstore/detail/sense-beta/lhjgkmllcaadmopgmanpapmpjgmfcfig?hl=en) A JSON aware developer console to ElasticSearch; unofficial but very powerful
 * [ES-mode](https://github.com/dakrone/es-mode) An Emacs major mode for interacting with Elasticsearch (similar to Sense)
+
+### Import and Export
+* [Elasticsearch-Exporter](https://github.com/mallocator/Elasticsearch-Exporter) is a command line script to import/export data from ElasticSearch to various other storage systems
+* [esbulk](https://github.com/miku/esbulk) Parallel elasticsearch bulk indexing utility for the command line.
+* [elasticdump](https://github.com/taskrabbit/elasticsearch-dump) - tools for moving and saving indicies
 
 ## Elasticsearch plugins
 ### Cluster
@@ -28,11 +34,6 @@
 ### Integrations and SQL support
 * [NLPchina/elasticsearch-sql](https://github.com/NLPchina/elasticsearch-sql/) - Query elasticsearch using familiar SQL syntax. You can also use ES functions in SQL.
 * [elastic/elasticsearch-hadoop](https://github.com/elastic/elasticsearch-hadoop) - Elasticsearch real-time search and analytics natively integrated with Hadoop (and Hive)
-
-### Import and Export
-* [Elasticsearch-Exporter](https://github.com/mallocator/Elasticsearch-Exporter) is a command line script to import/export data from ElasticSearch to various other storage systems
-* [esbulk](https://github.com/miku/esbulk) Parallel elasticsearch bulk indexing utility for the command line.
-* [elasticdump](https://github.com/taskrabbit/elasticsearch-dump) - tools for moving and saving indicies
 
 ## Discussions and social media
 * [/r/elasticsearch](https://www.reddit.com/r/elasticsearch)
