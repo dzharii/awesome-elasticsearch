@@ -36,6 +36,9 @@
 * [NLPchina/elasticsearch-sql](https://github.com/NLPchina/elasticsearch-sql/) - Query elasticsearch using familiar SQL syntax. You can also use ES functions in SQL.
 * [elastic/elasticsearch-hadoop](https://github.com/elastic/elasticsearch-hadoop) - Elasticsearch real-time search and analytics natively integrated with Hadoop (and Hive)
 
+## Kibana plugins and applications
+* [elastic/timelion](https://github.com/elastic/timelion) time-series analyses application. Overview and installation guide: Timelion: [The time series composer for Kibana](https://www.elastic.co/blog/timelion-timeline)
+
 ## Discussions and social media
 * [/r/elasticsearch](https://www.reddit.com/r/elasticsearch)
 * [Elasticsearch forum](https://discuss.elastic.co/)
