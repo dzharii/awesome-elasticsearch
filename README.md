@@ -21,6 +21,7 @@
 * [ES-mode](https://github.com/dakrone/es-mode) An Emacs major mode for interacting with Elasticsearch (similar to Sense)
 
 ### Import and Export
+* [Knapsack plugin](https://github.com/jprante/elasticsearch-knapsack)  is an "swiss knife" export/import plugin for Elasticsearch
 * [Elasticsearch-Exporter](https://github.com/mallocator/Elasticsearch-Exporter) is a command line script to import/export data from ElasticSearch to various other storage systems
 * [esbulk](https://github.com/miku/esbulk) Parallel elasticsearch bulk indexing utility for the command line.
 * [elasticdump](https://github.com/taskrabbit/elasticsearch-dump) - tools for moving and saving indicies
