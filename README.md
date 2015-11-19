@@ -84,7 +84,8 @@
 [IFTTT](http://engineering.ifttt.com/data/2015/10/14/data-infrastructure/),
 [StackExchange](http://stackexchange.com/performance),
 [Raygun](https://raygun.io/blog/2014/02/search-improvements-at-raygun/),
-[Mozilla](https://www.youtube.com/watch?v=lWKEphKIG8U)
+[Mozilla](https://www.youtube.com/watch?v=lWKEphKIG8U),
+[Spotify](https://labs.spotify.com/2015/11/17/monitoring-at-spotify-introducing-heroic/)
 
 # Contributing
 * Make sure you are about to post a valuable resource that belongs to this list
