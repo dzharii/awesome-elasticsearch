@@ -3,6 +3,8 @@
 #### ← [Awesome TypeScript](https://github.com/dzharii/awesome-typescript) -= Awesome Elasticsearch =- 
 [![](https://raw.githubusercontent.com/dzharii/awesome-elasticsearch/master/awesome-elastic-logo.png)](https://github.com/dzharii/awesome-elasticsearch)
 
+    Tips of the day: Use the "Watch" button to subscribe for new updates. Don't forget to add a star ;)
+
 # General
 ## ELK Stack
 * [Elasticsearch](https://www.elastic.co/) official website 
