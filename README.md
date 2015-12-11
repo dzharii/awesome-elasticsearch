@@ -4,6 +4,11 @@
 [![](https://raw.githubusercontent.com/dzharii/awesome-elasticsearch/master/awesome-elastic-logo.png)](https://github.com/dzharii/awesome-elasticsearch)
 
 
+# RSS Updates
+Don't miss new commits! Subscribe via RSS / Atom channel.  
+Or use IFTTT to forward the RSS updates into your favourite reader.  
+[RSS / Atom channel](https://github.com/dzharii/awesome-elasticsearch/commits/master.atom)
+
 # General
 ## ELK Stack
 * [Elasticsearch](https://www.elastic.co/) official website 
