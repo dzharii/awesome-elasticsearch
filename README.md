@@ -6,8 +6,10 @@
 
 # RSS Updates
 Don't miss new commits! Subscribe via RSS / Atom channel.  
-Or use IFTTT to forward the RSS updates into your favourite reader.  
-[RSS / Atom channel](https://github.com/dzharii/awesome-elasticsearch/commits/master.atom)
+Or use IFTTT to forward the RSS updates into your favourite reader.    
+* [RSS feed -- Feedburner](http://feeds.feedburner.com/RecentCommitsToAwesome-elasticsearchmaster)
+* [Github's raw Atom feed](https://github.com/dzharii/awesome-elasticsearch/commits/master.atom)
+
 
 # General
 ## ELK Stack
