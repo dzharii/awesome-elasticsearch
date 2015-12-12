@@ -96,6 +96,7 @@ Or use IFTTT to forward the RSS updates into your favourite reader.
 
 ## Other
 * [Fluentd vs. Logstash for OpenStack Log Management](http://www.slideshare.net/td-nttcom/fluentd-vs-logstash-for-openstack-log-management)
+* [Building a Directory Map With ELK](http://david.pilato.fr/blog/2015/12/10/building-a-directory-map-with-elk/)
 
 ## Videos
 ### Overviews
