@@ -114,6 +114,9 @@ Or use IFTTT to forward the RSS updates into your favourite reader.
 ### Advanced
 * [#bbuzz 2015: Adrien Grand – Algorithms and data-structures that power Lucene and Elasticsearch](https://www.youtube.com/watch?v=eQ-rXP-D80U)
 
+### Configuration file samples and other gists
+* [ElasticSearch config for a write-heavy cluster](https://gist.github.com/reyjrar/4364063) - reyjrar/elasticsearch.yml
+
 ## Who is using elasticsearch?
 [Yelp](http://engineeringblog.yelp.com/2015/10/how-we-use-deep-learning-to-classify-business-photos-at-yelp.html),
 [IFTTT](http://engineering.ifttt.com/data/2015/10/14/data-infrastructure/),
