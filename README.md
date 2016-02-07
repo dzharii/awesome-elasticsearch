@@ -69,6 +69,7 @@ Or use IFTTT to forward the RSS updates into your favourite reader.
 * [9 Tips on ElasticSearch Configuration for High Performance](https://www.loggly.com/blog/nine-tips-configuring-elasticsearch-for-high-performance/)
 
 ## Scalable Infrastructure and performance
+* [Maximizing Data Ingestion Performance with Elasticsearch on Azure](https://azure.microsoft.com/nb-no/documentation/articles/guidance-elasticsearch-data-ingestion/) - and not only for Azure. That's a great article about Elasticsearch Performance testing by example
 * [Elasticsearch Indexing Performance Cheatsheet](https://blog.codecentric.de/en/2014/05/elasticsearch-indexing-performance-cheatsheet/) - when you plan to index large amounts of data in Elasticsearch (by Patrick Peschlow)
 * [ElasticSearch for Logging](http://edgeofsanity.net/article/2012/12/26/elasticsearch-for-logging.html) Elasticsearch configuration tips and tricks from Sanity
 * [Scaling Elasticsearch to Hundreds of Developers](http://engineeringblog.yelp.com/2014/11/scaling-elasticsearch-to-hundreds-of-developers.html) by Joseph Lynch @yelp 
