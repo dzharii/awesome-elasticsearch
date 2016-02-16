@@ -20,6 +20,7 @@ Or use IFTTT to forward the RSS updates into your favourite reader.
 ## Open-source and free products, based on Elasticsearch 
 * [Yelp/elastalert](https://github.com/yelp/elastalert) is a modular flexible rules based alerting system written in Python
 * [exceptionless/Exceptionless](https://github.com/exceptionless/Exceptionless) is an error (exceptions) collecting and reporting server with client bindings for a various programming languages
+* [searchkit/searchkit](https://github.com/searchkit/searchkit) is a UI framework based on React to build awesome search experiences with Elasticsearch
 
 ## Elasticsearch developer tools and utilities
  
