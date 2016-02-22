@@ -42,7 +42,6 @@ Or use IFTTT to forward the RSS updates into your favourite reader.
 * [Elastic HQ](http://www.elastichq.org/) - Elasticsearch cluster management console with live monitoring and beautiful UI
 * [Kopf](https://github.com/lmenezes/elasticsearch-kopf) - Another management plugin that have REST console and *manual* shard allocation
 * [Search Guard](https://github.com/floragunncom/search-guard) - Elasticsearch security for free
-* [Tempest](https://github.com/datarank/tempest) - Resource friendly shard allocation
 
 ### Integrations and SQL support
 * [NLPchina/elasticsearch-sql](https://github.com/NLPchina/elasticsearch-sql/) - Query elasticsearch using familiar SQL syntax. You can also use ES functions in SQL.
