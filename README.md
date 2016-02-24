@@ -103,7 +103,8 @@ Or use IFTTT to forward the RSS updates into your favourite reader.
 ### Use cases for elastic search
 * [Data Infrastructure at IFTTT](http://engineering.ifttt.com/data/2015/10/14/data-infrastructure/) Elasticsearch, Kafka, Apache Spark, Redhsift, other AWS services 
 * [OFAC compliance with ElasticSearch](https://israelwebdev.wordpress.com/2015/01/19/ofac-compliance-with-elasticsearch/) using AWS
-
+* [Building a Streaming Search Platform](http://insightdataengineering.com/blog/streaming-search/index.html) - 
+Streaming Search on Tweets: Storm, Elasticsearch, and Redis
 ## Other
 * [Fluentd vs. Logstash for OpenStack Log Management](http://www.slideshare.net/td-nttcom/fluentd-vs-logstash-for-openstack-log-management)
 * [Building a Directory Map With ELK](http://david.pilato.fr/blog/2015/12/10/building-a-directory-map-with-elk/)
