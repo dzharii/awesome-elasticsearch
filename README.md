@@ -82,6 +82,7 @@ Or use IFTTT to forward the RSS updates into your favourite reader.
 * [10 Elasticsearch metrics to watch](http://radar.oreilly.com/2015/04/10-elasticsearch-metrics-to-watch.html)
 * [Understanding ElasticSearch Performance](https://joshrendek.com/2015/11/understanding-elasticsearch-performance/)
 * [Our Experience of Creating Large Scale Log Search System Using ElasticSearch](http://www.cubrid.org/blog/dev-platform/our-experience-creating-large-scale-log-search-system-using-elasticsearch/) - topology, separate master, data and search balancers nodes
+* :open_file_folder: [Elasticsearch on Azure Guidance](https://github.com/Azure/azure-content/blob/master/articles/guidance/guidance-elasticsearch.md) it is 10% on Azure and 90% of a very valuable general information, tips and tricks about Elasticsearch
  
 ### Integrations
 * [Apache Hive integration](https://www.elastic.co/guide/en/elasticsearch/hadoop/current/hive.html)
