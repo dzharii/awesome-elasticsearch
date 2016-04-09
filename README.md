@@ -12,7 +12,7 @@ Or use IFTTT to forward the RSS updates into your favourite reader.
 
 
 # General
-## ELK Stack
+## Elastic Stack
 * [Elasticsearch](https://www.elastic.co/) official website 
 * [Logstash](https://www.elastic.co/products/logstash) is a data pipeline that helps you process logs and other event data from a variety of systems
 * [Kibana](https://www.elastic.co/products/kibana) is a data analysis tool that helps to visualize your data 
@@ -113,6 +113,7 @@ Streaming Search on Tweets: Storm, Elasticsearch, and Redis
 
 
 ## Other
+* [LogZoom, a fast and lightweight substitute for Logstash](https://packetzoom.com/blog/logzoom-a-fast-and-lightweight-substitute-for-logstash.html)
 * [Fluentd vs. Logstash for OpenStack Log Management](http://www.slideshare.net/td-nttcom/fluentd-vs-logstash-for-openstack-log-management)
 * [Building a Directory Map With ELK](http://david.pilato.fr/blog/2015/12/10/building-a-directory-map-with-elk/)
 * [Structured logging with ELK - part 1](http://engineering.laterooms.com/structured-logging-with-elk-part-1/)
