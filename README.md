@@ -3,14 +3,6 @@
 #### ← [Awesome TypeScript](https://github.com/dzharii/awesome-typescript) -= Awesome Elasticsearch =- 
 [![](https://raw.githubusercontent.com/dzharii/awesome-elasticsearch/master/awesome-elastic-logo.png)](https://github.com/dzharii/awesome-elasticsearch)
 
-
-# RSS Updates
-Don't miss new commits! Subscribe via RSS / Atom channel.  
-Or use IFTTT to forward the RSS updates into your favourite reader.    
-* [RSS feed -- Feedburner](http://feeds.feedburner.com/RecentCommitsToAwesome-elasticsearchmaster)
-* [Github's raw Atom feed](https://github.com/dzharii/awesome-elasticsearch/commits/master.atom)
-
-
 # General
 ## Elastic Stack
 * [Elasticsearch](https://www.elastic.co/) official website 
@@ -70,6 +62,7 @@ Or use IFTTT to forward the RSS updates into your favourite reader.
 
 ## Articles
 ## System configuration
+* [A Useful Elasticsearch Cheat Sheet in Times of Trouble](http://logz.io/blog/elasticsearch-cheat-sheet/)
 * [The definitive guide for Elasticsearch on Windows Azure](http://code972.com/blog/2014/07/74-the-definitive-guide-for-elasticsearch-on-windows-azure)
 * [ElasticSearch pre-flight checklist](http://asquera.de/opensource/2012/11/25/elasticsearch-pre-flight-checklist/)
 * [9 Tips on ElasticSearch Configuration for High Performance](https://www.loggly.com/blog/nine-tips-configuring-elasticsearch-for-high-performance/)
