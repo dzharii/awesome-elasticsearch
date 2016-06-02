@@ -87,6 +87,7 @@
 ### Alerts
 * [ElastAlert: Alerting At Scale With Elasticsearch, Part 1](http://engineeringblog.yelp.com/2015/10/elastalert-alerting-at-scale-with-elasticsearch.html) by engineeringblog.yelp.com
 * [ElastAlert: Alerting At Scale With Elasticsearch, Part 2](http://engineeringblog.yelp.com/2016/03/elastalert-part-two.html) by engineeringblog.yelp.com
+* [Elastalert: implementing rich monitoring with Elasticsearch](https://alexandreesl.com/2016/04/15/elastalert-implementing-rich-monitoring-with-elasticsearch/)
 
 ### Time series
 * [Elasticsearch as a Time Series Data Store](https://www.elastic.co/blog/elasticsearch-as-a-time-series-data-store) by Felix Barnsteiner
@@ -136,6 +137,11 @@ Streaming Search on Tweets: Storm, Elasticsearch, and Redis
 [Spotify](https://labs.spotify.com/2015/11/17/monitoring-at-spotify-introducing-heroic/),
 [CERN](https://medium.com/@ghoranyi/needle-in-a-haystack-873c97a99983),
 [NASA](https://www.elastic.co/elasticon/2015/sf/unlocking-interplanetary-datasets-with-real-time-search)
+
+## I want more! (Elasticsearch related resources)
+* [Technology Explained Blog](https://alexandreesl.com/)
+* [EagerElk](http://blog.eagerelk.com/)
+* [Tim Roes Blog](https://www.timroes.de/)
 
 # Contributing
 * Make sure you are about to post a valuable resource that belongs to this list
