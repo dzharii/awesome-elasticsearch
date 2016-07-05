@@ -68,6 +68,7 @@
 * [The definitive guide for Elasticsearch on Windows Azure](http://code972.com/blog/2014/07/74-the-definitive-guide-for-elasticsearch-on-windows-azure)
 * [ElasticSearch pre-flight checklist](http://asquera.de/opensource/2012/11/25/elasticsearch-pre-flight-checklist/)
 * [9 Tips on ElasticSearch Configuration for High Performance](https://www.loggly.com/blog/nine-tips-configuring-elasticsearch-for-high-performance/)
+* [Docker – Using Compose to scale up elasticsearch cluster](http://blog.codingtimes.com/docker-using-compose-to-scale-up-elasticsearch-cluster/)
 
 ## Scalable Infrastructure and performance
 * [Maximizing Data Ingestion Performance with Elasticsearch on Azure](https://azure.microsoft.com/nb-no/documentation/articles/guidance-elasticsearch-data-ingestion/) - and not only for Azure. That's a great article about Elasticsearch Performance testing by example
@@ -111,6 +112,7 @@ Streaming Search on Tweets: Storm, Elasticsearch, and Redis
 
 ## Other
 * [LogZoom, a fast and lightweight substitute for Logstash](https://packetzoom.com/blog/logzoom-a-fast-and-lightweight-substitute-for-logstash.html)
+* [Graylog2/graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open source log management (based on ES)
 * [Fluentd vs. Logstash for OpenStack Log Management](http://www.slideshare.net/td-nttcom/fluentd-vs-logstash-for-openstack-log-management)
 * [Building a Directory Map With ELK](http://david.pilato.fr/blog/2015/12/10/building-a-directory-map-with-elk/)
 * [Structured logging with ELK - part 1](http://engineering.laterooms.com/structured-logging-with-elk-part-1/)
