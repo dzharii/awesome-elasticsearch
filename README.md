@@ -20,6 +20,7 @@
 * [Sense (from Elastic)](https://github.com/elastic/sense/#sense) A JSON aware developer console to ElasticSearch; official and very powerful
 * [Sense (Google Chrome extension)](https://chrome.google.com/webstore/detail/sense-beta/lhjgkmllcaadmopgmanpapmpjgmfcfig?hl=en) A JSON aware developer console to ElasticSearch; unofficial but very powerful
 * [ES-mode](https://github.com/dakrone/es-mode) An Emacs major mode for interacting with Elasticsearch (similar to Sense)
+* [Elasticsearch Cheatsheet](http://elasticsearch-cheatsheet.jolicode.com/) Examples for the most used queries, API and settings for all major version of Elasticsearch
 
 ### Import and Export
 * [Knapsack plugin](https://github.com/jprante/elasticsearch-knapsack)  is an "swiss knife" export/import plugin for Elasticsearch
