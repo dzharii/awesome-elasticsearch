@@ -31,6 +31,7 @@
 ## Elasticsearch plugins
 ### Cluster
 * [sscarduzio/elasticsearch-readonlyrest-plugin](https://github.com/sscarduzio/elasticsearch-readonlyrest-plugin) Safely expose Elasticsearch REST API directly to the public
+* [appbaseio/dejaVu](https://github.com/appbaseio/dejaVu/tree/dev) A modern, open-source data browser for Elasticsearch; [landing page](https://appbaseio.github.io/dejaVu/)  
 * [mobz/elasticsearch-head](https://github.com/mobz/elasticsearch-head) is a powerful and essential plugin for managing your cluster, indices and mapping
 * [Bigdesk](http://bigdesk.org/) - Live charts and statistics for elasticsearch cluster
 * [Elastic HQ](http://www.elastichq.org/) - Elasticsearch cluster management console with live monitoring and beautiful UI
