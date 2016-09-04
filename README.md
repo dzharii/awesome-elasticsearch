@@ -70,11 +70,11 @@
 * [The definitive guide for Elasticsearch on Windows Azure](http://code972.com/blog/2014/07/74-the-definitive-guide-for-elasticsearch-on-windows-azure)
 * [ElasticSearch pre-flight checklist](http://asquera.de/opensource/2012/11/25/elasticsearch-pre-flight-checklist/)
 * [9 Tips on ElasticSearch Configuration for High Performance](https://www.loggly.com/blog/nine-tips-configuring-elasticsearch-for-high-performance/)
-* [Docker – Using Compose to scale up elasticsearch cluster](http://blog.codingtimes.com/docker-using-compose-to-scale-up-elasticsearch-cluster/)
+* [Docker and elasticsearch blog post series](http://blog.codingtimes.com/tag/elasticSearch/) by blog.codingtimes.com 
 * [Best Practices in AWS](https://www.elastic.co/guide/en/elasticsearch/plugins/master/cloud-aws-best-practices.html)
 
 ## Scalable Infrastructure and performance
-* [Maximizing Data Ingestion Performance with Elasticsearch on Azure](https://azure.microsoft.com/nb-no/documentation/articles/guidance-elasticsearch-data-ingestion/) - and not only for Azure. That's a great article about Elasticsearch Performance testing by example
+* [Tuning data ingestion performance for Elasticsearch on Azure](https://azure.microsoft.com/en-us/documentation/articles/guidance-elasticsearch-tuning-data-ingestion-performance/) - and not only for Azure. That's a great article about Elasticsearch Performance testing by example
 * [Elasticsearch Indexing Performance Cheatsheet](https://blog.codecentric.de/en/2014/05/elasticsearch-indexing-performance-cheatsheet/) - when you plan to index large amounts of data in Elasticsearch (by Patrick Peschlow)
 * [ElasticSearch for Logging](http://edgeofsanity.net/article/2012/12/26/elasticsearch-for-logging.html) Elasticsearch configuration tips and tricks from Sanity
 * [Scaling Elasticsearch to Hundreds of Developers](http://engineeringblog.yelp.com/2014/11/scaling-elasticsearch-to-hundreds-of-developers.html) by Joseph Lynch @yelp 
@@ -109,7 +109,7 @@
 ### Use cases for elastic search
 * [Data Infrastructure at IFTTT](http://engineering.ifttt.com/data/2015/10/14/data-infrastructure/) Elasticsearch, Kafka, Apache Spark, Redhsift, other AWS services 
 * [OFAC compliance with ElasticSearch](https://israelwebdev.wordpress.com/2015/01/19/ofac-compliance-with-elasticsearch/) using AWS
-* [Building a Streaming Search Platform](http://insightdataengineering.com/blog/streaming-search/index.html) - 
+* [Building a Streaming Search Platform](https://blog.insightdatascience.com/building-a-streaming-search-platform-61a0d5a323a8#.f4b0rvae5) - 
 Streaming Search on Tweets: Storm, Elasticsearch, and Redis
 
 
@@ -130,6 +130,7 @@ Streaming Search on Tweets: Storm, Elasticsearch, and Redis
 * [Speed is a Key: Elasticsearch under the Hood](https://www.youtube.com/watch?v=vruklYSW4jg) introduction + basic performance optimization
 * [$$ Pluralsight: Getting Started With Elasticsearch for .NET Developers](http://www.pluralsight.com/courses/elasticsearch-for-dotnet-developers) this course will introduce users to Elasticsearch, how it works, and how to use it with .NET projects. 
 * [How Elasticsearch powers the Guardian's newsroom](http://www.infoq.com/presentations/elasticsearch-guardian)
+* [Elasticsearch Query Editor in Grapfana](https://www.youtube.com/watch?v=hEztaMtobXw)  
 
 ### Advanced
 * [#bbuzz 2015: Adrien Grand – Algorithms and data-structures that power Lucene and Elasticsearch](https://www.youtube.com/watch?v=eQ-rXP-D80U)
