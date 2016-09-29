@@ -8,6 +8,7 @@
 * [Elasticsearch](https://www.elastic.co/) official website 
 * [Logstash](https://www.elastic.co/products/logstash) is a data pipeline that helps you process logs and other event data from a variety of systems
 * [Kibana](https://www.elastic.co/products/kibana) is a data analysis tool that helps to visualize your data 
+* [beats](https://www.elastic.co/products/beats) is the platform for building lightweight, open source data shippers for many types of data you want to enrich with Logstash, search and analyze in Elasticsearch, and visualize in Kibana. 
 
 ## Open-source and free products, based on Elasticsearch 
 * [Yelp/elastalert](https://github.com/yelp/elastalert) is a modular flexible rules based alerting system written in Python
