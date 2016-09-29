@@ -53,6 +53,11 @@
 
 ## Kibana plugins and applications
 * [elastic/timelion](https://github.com/elastic/timelion) time-series analyses application. Overview and installation guide: Timelion: [The time series composer for Kibana](https://www.elastic.co/blog/timelion-timeline)
+* [Kibana Alert App for Elasticsearch](https://github.com/elasticfence/kaae) - Kibana plugin with monitoring, alerting and reporting capabilities
+
+### Kibana Visualization plugins
+* [nbs-system/mapster](https://github.com/nbs-system/mapster) - a visualization which allows to create live event 3d maps in Kibana
+* [Kibana Tag Cloud Plugin](https://github.com/stormpython/tagcloud) - tag cloud visualization plugin based on d3-cloud plugin
 
 ## Discussions and social media
 * [/r/elasticsearch](https://www.reddit.com/r/elasticsearch)
