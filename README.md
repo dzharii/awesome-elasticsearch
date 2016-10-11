@@ -13,8 +13,6 @@
 ## Books
 * [Relevant Search: with applications for Solr and Elasticsearch](https://www.manning.com/books/relevant-search) - demystifies relevance work. Using Elasticsearch, it teaches you how to return engaging search results to your users, helping you understand and leverage the internals of Lucene-based search engines.  
 * [Elasticsearch in Action](https://www.manning.com/books/elasticsearch-in-action) - teaches you how to build scalable search applications using Elasticsearch
-* Free E-Book: [Performance Monitoring Essentials - Elasticsearch Edition](https://sematext.com/publications/performance-monitoring-essentials-elasticsearch-edition.pdf)
-
 
 ## Open-source and free products, based on Elasticsearch 
 * [Yelp/elastalert](https://github.com/yelp/elastalert) is a modular flexible rules based alerting system written in Python
@@ -103,6 +101,7 @@
   * [How to collect Elasticsearch metrics](https://www.datadoghq.com/blog/collect-elasticsearch-metrics/)
   * [How to monitor Elasticsearch with Datadog](https://www.datadoghq.com/blog/monitor-elasticsearch-datadog/)
   * [How to solve 5 Elasticsearch performance and scaling problems](https://www.datadoghq.com/blog/elasticsearch-performance-scaling-problems/)
+* [Performance Monitoring Essentials - Elasticsearch Edition](https://sematext.com/publications/performance-monitoring-essentials-elasticsearch-edition.pdf)
  
 ### Integrations
 * [Apache Hive integration](https://www.elastic.co/guide/en/elasticsearch/hadoop/current/hive.html)
