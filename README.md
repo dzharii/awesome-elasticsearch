@@ -14,12 +14,12 @@
 * [Relevant Search: with applications for Solr and Elasticsearch](https://www.manning.com/books/relevant-search) - demystifies relevance work. Using Elasticsearch, it teaches you how to return engaging search results to your users, helping you understand and leverage the internals of Lucene-based search engines.  
 * [Elasticsearch in Action](https://www.manning.com/books/elasticsearch-in-action) - teaches you how to build scalable search applications using Elasticsearch
 
-
 ## Open-source and free products, based on Elasticsearch 
 * [Yelp/elastalert](https://github.com/yelp/elastalert) is a modular flexible rules based alerting system written in Python
 * [exceptionless/Exceptionless](https://github.com/exceptionless/Exceptionless) is an error (exceptions) collecting and reporting server with client bindings for a various programming languages
 * [searchkit/searchkit](https://github.com/searchkit/searchkit) is a UI framework based on React to build awesome search experiences with Elasticsearch
 * [Simple File Server](https://github.com/pitchpoint-solutions/sfs) is an Openstack Swift compatible distributed object store that can serve and securely store billions of large and small files using minimal resources.
+* [logagent](https://www.npmjs.com/package/@sematext/logagent) a log shipper to parse and ship logs to Elasticsearch including bulk indexing, disk buffers and log format detection. 
 
 ## Elasticsearch developer tools and utilities
  
@@ -102,6 +102,7 @@
   * [How to collect Elasticsearch metrics](https://www.datadoghq.com/blog/collect-elasticsearch-metrics/)
   * [How to monitor Elasticsearch with Datadog](https://www.datadoghq.com/blog/monitor-elasticsearch-datadog/)
   * [How to solve 5 Elasticsearch performance and scaling problems](https://www.datadoghq.com/blog/elasticsearch-performance-scaling-problems/)
+* [Performance Monitoring Essentials - Elasticsearch Edition](https://sematext.com/publications/performance-monitoring-essentials-elasticsearch-edition.pdf)
  
 ### Integrations
 * [Apache Hive integration](https://www.elastic.co/guide/en/elasticsearch/hadoop/current/hive.html)
@@ -158,6 +159,7 @@ Streaming Search on Tweets: Storm, Elasticsearch, and Redis
 ### Advanced
 * [#bbuzz 2015: Adrien Grand – Algorithms and data-structures that power Lucene and Elasticsearch](https://www.youtube.com/watch?v=eQ-rXP-D80U)
 * [Rafał Kuć - Running High Performance Fault-tolerant Elasticsearch Clusters on Docker](https://www.youtube.com/watch?list=PLq-odUc2x7i_-qsarQo7MNsrYz3rlXGMu&v=D2zR-6Tke8o) and [slides](https://sematext.com/blog/2016/06/08/elasticsearch-in-docker/)
+* [Working with Elasticsearch - Search, Aggregate, Analyze, and Scale Large Volume Datastores](http://shop.oreilly.com/product/0636920043898.do) -  O'Reilly Media
 
 ### Configuration file samples and other gists
 * [ElasticSearch config for a write-heavy cluster](https://gist.github.com/reyjrar/4364063) - reyjrar/elasticsearch.yml
