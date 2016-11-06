@@ -85,6 +85,7 @@
 * [9 Tips on ElasticSearch Configuration for High Performance](https://www.loggly.com/blog/nine-tips-configuring-elasticsearch-for-high-performance/)
 * [Best Practices in AWS](https://www.elastic.co/guide/en/elasticsearch/plugins/master/cloud-aws-best-practices.html)
 * [How to Secure Elasticsearch and Kibana](https://www.mapr.com/blog/how-secure-elasticsearch-and-kibana) with NGINX, LDAP and SSL :lock:
+* [Elasticsearch server on Webfaction using NGINX with basic authorization and HTTPS protocol](http://joanswork.com/webfaction-elasticsearch-server-tutorial/)
 
 ### Docker and Elasticsearch
 * [Running an Elasticsearch cluster with Docker](https://stefanprodan.com/2016/elasticsearch-cluster-with-docker/)
