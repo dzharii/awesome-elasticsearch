@@ -142,7 +142,6 @@
 * [Building a Streaming Search Platform](https://blog.insightdatascience.com/building-a-streaming-search-platform-61a0d5a323a8#.f4b0rvae5) - 
 Streaming Search on Tweets: Storm, Elasticsearch, and Redis
 
-
 ## Other
 * [LogZoom, a fast and lightweight substitute for Logstash](https://packetzoom.com/blog/logzoom-a-fast-and-lightweight-substitute-for-logstash.html)
 * [Graylog2/graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open source log management (based on ES)
@@ -154,14 +153,14 @@ Streaming Search on Tweets: Storm, Elasticsearch, and Redis
 
 ## Videos
 ### Overviews
-* [Elasticsearch in action Thijs Feryn](https://www.youtube.com/watch?v=oPObRc8tHgQ) a begginer overview
+* [Elasticsearch in action Thijs Feryn](https://www.youtube.com/watch?v=oPObRc8tHgQ) a beginner overview
 * [How we scaled Raygun](https://raygun.io/blog/2014/05/talk-how-we-scaled-raygun-using-technologies-like-elastic-search-featuring-iron-man/)
 * [Getting started with Elasticsearch](https://www.youtube.com/watch?v=60UsHHsKyN4&list=PLw5h0DiJ-9PDStvJYc1LOZiEm1ehlEKLP)
 * [Speed is a Key: Elasticsearch under the Hood](https://www.youtube.com/watch?v=vruklYSW4jg) introduction + basic performance optimization
 * [$$ Pluralsight: Getting Started With Elasticsearch for .NET Developers](http://www.pluralsight.com/courses/elasticsearch-for-dotnet-developers) this course will introduce users to Elasticsearch, how it works, and how to use it with .NET projects. 
 * [$$ Complete Guide to Elasticsearch](https://www.udemy.com/elasticsearch-complete-guide/) Comprehensive guide to Elasticsearch, the popular search engine built on Apache Lucene
 * [How Elasticsearch powers the Guardian's newsroom](http://www.infoq.com/presentations/elasticsearch-guardian)
-* [Elasticsearch Query Editor in Grapfana](https://www.youtube.com/watch?v=hEztaMtobXw)  
+* [Elasticsearch Query Editor in Grafana](https://www.youtube.com/watch?v=hEztaMtobXw)  
 
 ### Advanced
 * [#bbuzz 2015: Adrien Grand – Algorithms and data-structures that power Lucene and Elasticsearch](https://www.youtube.com/watch?v=eQ-rXP-D80U)
