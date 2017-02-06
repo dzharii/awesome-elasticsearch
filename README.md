@@ -154,6 +154,7 @@ Streaming Search on Tweets: Storm, Elasticsearch, and Redis
 ## Videos
 ### Overviews
 * [Elasticsearch in action Thijs Feryn](https://www.youtube.com/watch?v=oPObRc8tHgQ) a beginner overview
+* [Getting Down and Dirty with ElasticSearch by Clinton Gormley ](https://www.youtube.com/watch?v=7FLXjgB0PQI)
 * [How we scaled Raygun](https://raygun.io/blog/2014/05/talk-how-we-scaled-raygun-using-technologies-like-elastic-search-featuring-iron-man/)
 * [Getting started with Elasticsearch](https://www.youtube.com/watch?v=60UsHHsKyN4&list=PLw5h0DiJ-9PDStvJYc1LOZiEm1ehlEKLP)
 * [Speed is a Key: Elasticsearch under the Hood](https://www.youtube.com/watch?v=vruklYSW4jg) introduction + basic performance optimization
