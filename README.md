@@ -189,7 +189,7 @@ Streaming Search on Tweets: Storm, Elasticsearch, and Redis
 
 # Contributing
 * Make sure you are about to post a valuable resource that belongs to this list
-* Use spellchecker
+* Use spellchiker
 * All spelling and grammar corrections are welcome
 * Fork this repo, do your edits, send the pull request
 * Feel free to create any new sections
