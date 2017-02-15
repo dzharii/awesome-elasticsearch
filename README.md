@@ -31,6 +31,7 @@
 * [ES-mode](https://github.com/dakrone/es-mode) An Emacs major mode for interacting with Elasticsearch (similar to Sense)
 * [Elasticsearch Cheatsheet](http://elasticsearch-cheatsheet.jolicode.com/) Examples for the most used queries, API and settings for all major version of Elasticsearch
 * [Elasticstat](https://github.com/objectrocket/elasticstat) CLI tool displaying monitoring informations like htop
+* [Elastic for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ria.elastic) An extension for developing Elasticsearch queries like Kibana and Sense extention in Visual Studio Code
 
 ### Import and Export
 * [Knapsack plugin](https://github.com/jprante/elasticsearch-knapsack)  is an "swiss knife" export/import plugin for Elasticsearch
