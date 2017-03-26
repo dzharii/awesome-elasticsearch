@@ -98,6 +98,7 @@
 * [Docker and elasticsearch blog post series](http://blog.codingtimes.com/tag/elasticSearch/) by blog.codingtimes.com 
 
 ## Scalable Infrastructure and performance
+* [The Authoritative Guide to Elasticsearch Performance Tuning (Part 1)](https://qbox.io/blog/authoritative-guide-elasticsearch-performance-tuning-part-1) [Part 2](https://qbox.io/blog/elasticsearch-performance-tuning-part-2-zen) [Part 3](https://qbox.io/index.php?p=blog/authoritative-guide-elasticsearch-performance-tuning-part-3) 
 * [Tuning data ingestion performance for Elasticsearch on Azure](https://azure.microsoft.com/en-us/documentation/articles/guidance-elasticsearch-tuning-data-ingestion-performance/) - and not only for Azure. That's a great article about Elasticsearch Performance testing by example
 * [Elasticsearch Indexing Performance Cheatsheet](https://blog.codecentric.de/en/2014/05/elasticsearch-indexing-performance-cheatsheet/) - when you plan to index large amounts of data in Elasticsearch (by Patrick Peschlow)
 * [Elasticsearch for Logging](http://edgeofsanity.net/article/2012/12/26/elasticsearch-for-logging.html) Elasticsearch configuration tips and tricks from Sanity
