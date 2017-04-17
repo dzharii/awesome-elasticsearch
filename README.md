@@ -48,6 +48,7 @@
 * [mobz/elasticsearch-head](https://github.com/mobz/elasticsearch-head) is a powerful and essential plugin for managing your cluster, indices and mapping
 * [Bigdesk](http://bigdesk.org/) - Live charts and statistics for elasticsearch cluster
 * [Elastic HQ](http://www.elastichq.org/) - Elasticsearch cluster management console with live monitoring and beautiful UI
+* [Cerebro](https://github.com/lmenezes/cerebro) is an open source(MIT License) elasticsearch web admin tool. Supports ES 5.x
 * [Kopf](https://github.com/lmenezes/elasticsearch-kopf) - Another management plugin that have REST console and *manual* shard allocation
 * [Search Guard](https://github.com/floragunncom/search-guard) - Elasticsearch security for free
 
