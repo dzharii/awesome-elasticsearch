@@ -20,7 +20,8 @@
 * [appbaseio/mirage](https://github.com/appbaseio/mirage) is a 🔎 GUI for composing Elasticsearch queries
 * [exceptionless/Exceptionless](https://github.com/exceptionless/Exceptionless) is an error (exceptions) collecting and reporting server with client bindings for a various programming languages
 * [searchkit/searchkit](https://github.com/searchkit/searchkit) is a UI framework based on React to build awesome search experiences with Elasticsearch
-* [appbaseio/reactivemaps](https://opensource.appbase.io/reactivemaps) is a data components library for building Map UIs (built on Elasticsearch)
+* [appbaseio/reactivemaps](https://opensource.appbase.io/reactivemaps) is a React based UI components library for building Airbnb / Foursquare like Maps
+* [appbaseio/reactivesearch](https://opensource.appbase.io/reactivesearch) is a React based UI components library for building Amazon / Yelp like Search
 * [Simple File Server](https://github.com/pitchpoint-solutions/sfs) is an Openstack Swift compatible distributed object store that can serve and securely store billions of large and small files using minimal resources.
 * [logagent](https://www.npmjs.com/package/@sematext/logagent) a log shipper to parse and ship logs to Elasticsearch including bulk indexing, disk buffers and log format detection. 
 * [ItemsAPI](https://github.com/itemsapi/itemsapi) simplified search API for web and mobile (based on Elasticsearch and Express.js)
@@ -44,7 +45,7 @@
 ## Elasticsearch plugins
 ### Cluster
 * [sscarduzio/elasticsearch-readonlyrest-plugin](https://github.com/sscarduzio/elasticsearch-readonlyrest-plugin) Safely expose Elasticsearch REST API directly to the public
-* [appbaseio/dejaVu](https://github.com/appbaseio/dejaVu/tree/dev) A modern, open-source data browser for Elasticsearch; [landing page](https://appbaseio.github.io/dejaVu/)  
+* [appbaseio/dejavu](https://github.com/appbaseio/dejavu/tree/dev) A modern web GUI for Elasticsearch; [landing page](https://opensource.appbase.io/dejavu/)  
 * [mobz/elasticsearch-head](https://github.com/mobz/elasticsearch-head) is a powerful and essential plugin for managing your cluster, indices and mapping
 * [Bigdesk](http://bigdesk.org/) - Live charts and statistics for elasticsearch cluster
 * [Elastic HQ](http://www.elastichq.org/) - Elasticsearch cluster management console with live monitoring and beautiful UI
