@@ -176,8 +176,10 @@ Streaming Search on Tweets: Storm, Elasticsearch, and Redis
 * [Working with Elasticsearch - Search, Aggregate, Analyze, and Scale Large Volume Datastores](http://shop.oreilly.com/product/0636920043898.do) -  O'Reilly Media
 * [End-to-end Recommender System with Spark and Elasticsearch](https://www.youtube.com/watch?v=sa_Y488vj0M) by Nick Pentreath & Jean-François Puget. [Slide deck](http://www.slideshare.net/sparktc/spark-ml-meedup-pentreath-puget)
 
-### Configuration file samples and other gists
+### Code, configuration file samples and other gists
 * [Elasticsearch config for a write-heavy cluster](https://gist.github.com/reyjrar/4364063) - reyjrar/elasticsearch.yml
+* [chenryn/ESPL - Elastic Search Processing Language](https://github.com/chenryn/ESPL) PEG parser sample for SPL to Elasticsearch DSL
+* [thomaspatzke/EQUEL](https://github.com/thomaspatzke/EQUEL) an Elasticsearch QUEry Language, based on G4 grammar parser
 
 ## Who is using elasticsearch?
 [Yelp](http://engineeringblog.yelp.com/2015/10/how-we-use-deep-learning-to-classify-business-photos-at-yelp.html),
