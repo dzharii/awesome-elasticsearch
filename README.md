@@ -198,6 +198,7 @@ Streaming Search on Tweets: Storm, Elasticsearch, and Redis
 
 # Contributing
 * Make sure you are about to post a valuable resource that belongs to this list
+* Do NOT group ++Add and --Remove changes in same PR. Make them separate pull requests
 * Use spellchiker
 * All spelling and grammar corrections are welcome (except for the rule above)
 * Fork this repo, do your edits, send the pull request
