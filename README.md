@@ -77,7 +77,7 @@
 * [/r/elasticsearch](https://www.reddit.com/r/elasticsearch)
 * [Elasticsearch forum](https://discuss.elastic.co/)
 * [Stackoverflow](http://stackoverflow.com/tags/elasticsearch/hot)
-* [Books on Amazon](http://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=elasticsearch) does not fit well into this category, but worth to check this out!
+* [Books on Amazon](http://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=elasticsearch) does not fit well into this category, but worth checking out!
 * TODO: Put some good twitter accounts
 
 ## Tutorials
