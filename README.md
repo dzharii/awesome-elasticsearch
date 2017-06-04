@@ -156,7 +156,7 @@ Streaming Search on Tweets: Storm, Elasticsearch, and Redis
 * [Structured logging with ELK - part 1](http://engineering.laterooms.com/structured-logging-with-elk-part-1/)
 * [Search for :yum: Emoji with Elasticsearch :mag_right:](http://jolicode.com/blog/search-for-emoji-with-elasticsearch)
 * [Complete Guide to the ELK Stack](http://logz.io/learn/complete-guide-elk-stack/)
-* [logiq - Simple Web UI Monitoring Tool for Logstash ver. 5 and up](https://github.com/sloniki/logiq)
+* [logiq](https://github.com/sloniki/logiq) -  - Simple WebUI Monitoring Tool for Logstash ver. 5 and up
 
 ## Videos
 ### Overviews
