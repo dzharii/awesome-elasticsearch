@@ -35,6 +35,8 @@
 * [Elasticsearch Cheatsheet](http://elasticsearch-cheatsheet.jolicode.com/) Examples for the most used queries, API and settings for all major version of Elasticsearch
 * [Elasticstat](https://github.com/objectrocket/elasticstat) CLI tool displaying monitoring informations like htop
 * [Elastic for Visual Studio Code](https://github.com/hsen-dev/vscode-elastic) An extension for developing Elasticsearch queries like Kibana and Sense extention in Visual Studio Code
+* [Elastic Builder](https://github.com/sudo-suhas/elastic-builder) A Node.js implementation of the Elasticsearch DSL
+* [Bodybuilder](https://github.com/danpaz/bodybuilder) A Node.js elasticsearch query body builder
 
 ### Import and Export
 * [Knapsack plugin](https://github.com/jprante/elasticsearch-knapsack)  is an "swiss knife" export/import plugin for Elasticsearch
