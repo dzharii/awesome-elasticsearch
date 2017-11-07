@@ -161,6 +161,7 @@ Streaming Search on Tweets: Storm, Elasticsearch, and Redis
 * [Search for :yum: Emoji with Elasticsearch :mag_right:](http://jolicode.com/blog/search-for-emoji-with-elasticsearch)
 * [Complete Guide to the ELK Stack](http://logz.io/learn/complete-guide-elk-stack/)
 * [logiq](https://github.com/sloniki/logiq) - Simple WebUI Monitoring Tool for Logstash ver. 5.0 and up
+* [ElasticSearch Report Engine](https://malike.github.io/elasticsearch-report-engine/) - An ElasticSearch plugin to return    query results as either PDF,HTML or CSV. 
 
 ## Videos
 ### Overviews
