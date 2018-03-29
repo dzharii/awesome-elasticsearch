@@ -80,6 +80,7 @@
 * [Kibana Tag Cloud Plugin](https://github.com/stormpython/tagcloud) - tag cloud visualization plugin based on d3-cloud plugin
 * [LogTrail](https://github.com/sivasamyk/logtrail) - a plugin for Kibana to view, analyze, search and tail log events from multiple hosts in realtime with devops friendly interface inspired by Papertrail
 * [Analyze API](https://github.com/johtani/analyze-api-ui-plugin) - Kibana 6 application to manipulate the `_analyze` API graphically
+* [kbn_network](https://github.com/dlumbrer/kbn_network) - This is a plugin developed for Kibana that displays a network node that link two fields that have been previously selected.
 
 ## Discussions and social media
 * [/r/elasticsearch](https://www.reddit.com/r/elasticsearch)
