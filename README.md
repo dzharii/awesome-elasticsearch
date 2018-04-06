@@ -47,6 +47,7 @@
 * [Elasticsearch-Exporter](https://github.com/mallocator/Elasticsearch-Exporter) is a command line script to import/export data from Elasticsearch to various other storage systems
 * [esbulk](https://github.com/miku/esbulk) Parallel elasticsearch bulk indexing utility for the command line.
 * [elasticdump](https://github.com/taskrabbit/elasticsearch-dump) - tools for moving and saving indicies
+* [elasticsearch-loader](https://github.com/moshe/elasticsearch_loader) - Tool for loading common file types to elasticsearch including csv, json, and parquet
 
 ## Elasticsearch plugins
 ### Cluster
