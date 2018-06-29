@@ -41,6 +41,7 @@
 * [Elastic for Visual Studio Code](https://github.com/hsen-dev/vscode-elastic) An extension for developing Elasticsearch queries like Kibana and Sense extention in Visual Studio Code
 * [Elastic Builder](https://github.com/sudo-suhas/elastic-builder) A Node.js implementation of the Elasticsearch DSL
 * [Bodybuilder](https://github.com/danpaz/bodybuilder) A Node.js elasticsearch query body builder
+* [enju](https://github.com/kelp404/enju) A Node.js elasticsearch ORM
 
 ### Import and Export
 * [Knapsack plugin](https://github.com/jprante/elasticsearch-knapsack)  is an "swiss knife" export/import plugin for Elasticsearch
