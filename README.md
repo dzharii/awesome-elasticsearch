@@ -32,6 +32,7 @@
 * [Sentinl](https://github.com/sirensolutions/sentinl) - Sentinl is a Kibana alerting and reporting app.
 * [Praeco](https://github.com/ServerCentral/praeco/) - Elasticsearch alerting made simple
 
+
 ## Elasticsearch developer tools and utilities
  
 ### Development and debugging
@@ -60,6 +61,7 @@
 * [Cerebro](https://github.com/lmenezes/cerebro) is an open source(MIT License) elasticsearch web admin tool. Supports ES 5.x
 * [Kopf](https://github.com/lmenezes/elasticsearch-kopf) - Another management plugin that have REST console and *manual* shard allocation
 * [Search Guard](https://github.com/floragunncom/search-guard) - Elasticsearch security for free
+* [ee-outliers](https://github.com/NVISO-BE/ee-outliers) - ee-outliers is a framework to detect outliers in events stored in an Elasticsearch cluster.
 
 ### Other
 * [SIREn Join Plugin for Elasticsearch](https://github.com/sirensolutions/siren-join) This plugin extends Elasticsearch with new search actions and a filter query parser that enables to perform a "Filter Join" between two set of documents (in the same index or in different indexes).
