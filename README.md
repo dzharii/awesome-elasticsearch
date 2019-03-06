@@ -52,6 +52,9 @@
 * [elasticdump](https://github.com/taskrabbit/elasticsearch-dump) - tools for moving and saving indicies
 * [elasticsearch-loader](https://github.com/moshe/elasticsearch_loader) - Tool for loading common file types to elasticsearch including csv, json, and parquet
 
+### Management
+* [Vulcanizer](https://github.com/github/vulcanizer) - Github's open sourced cluster management library based on Elasticsearch's REST API. Comes with a high level CLI tool
+
 ## Elasticsearch plugins
 ### Cluster
 * [sscarduzio/elasticsearch-readonlyrest-plugin](https://github.com/sscarduzio/elasticsearch-readonlyrest-plugin) Safely expose Elasticsearch REST API directly to the public
