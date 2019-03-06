@@ -33,6 +33,7 @@
 * [Praeco](https://github.com/ServerCentral/praeco/) - Elasticsearch alerting made simple
 
 
+
 ## Elasticsearch developer tools and utilities
  
 ### Development and debugging
@@ -51,6 +52,9 @@
 * [esbulk](https://github.com/miku/esbulk) Parallel elasticsearch bulk indexing utility for the command line.
 * [elasticdump](https://github.com/taskrabbit/elasticsearch-dump) - tools for moving and saving indicies
 * [elasticsearch-loader](https://github.com/moshe/elasticsearch_loader) - Tool for loading common file types to elasticsearch including csv, json, and parquet
+
+### Management
+* [Vulcanizer](https://github.com/github/vulcanizer) - Github's open sourced cluster management library based on Elasticsearch's REST API. Comes with a high level CLI tool
 
 ## Elasticsearch plugins
 ### Cluster
