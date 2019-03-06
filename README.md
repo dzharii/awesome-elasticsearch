@@ -33,7 +33,6 @@
 * [Praeco](https://github.com/ServerCentral/praeco/) - Elasticsearch alerting made simple
 
 
-
 ## Elasticsearch developer tools and utilities
  
 ### Development and debugging
