@@ -119,6 +119,34 @@
 * [Running an Elasticsearch cluster with Docker](https://stefanprodan.com/2016/elasticsearch-cluster-with-docker/)
 * [Docker and elasticsearch blog post series](http://blog.codingtimes.com/tag/elasticSearch/) by blog.codingtimes.com 
 
+## Java tuning
+
+- [Elasticsearch Java Virtual Machine settings explained](http://jprante.github.io/2012/11/28/Elasticsearch-Java-Virtual-Machine-settings-explained.html)
+- [Tuning Garbage Collection for Mission-Critical Java Applications](http://blog.mgm-tp.com/2013/03/garbage-collection-tuning/)
+- [G1: One Garbage Collector To Rule Them All](http://www.infoq.com/articles/G1-One-Garbage-Collector-To-Rule-Them-All)
+- [Use Lucene’s MMapDirectory on 64bit platforms, please!](http://blog.thetaphi.de/)
+- [Black Magic cookbook](http://product.hubspot.com/blog/g1gc-tuning-your-hbase-cluster)
+- [G1GC Fundamentals: Lessons from Taming Garbage Collection](http://product.hubspot.com/blog/g1gc-fundamentals-lessons-from-taming-garbage-collection)
+- [JVM Garbage Collector settings
+investigation](https://tigase.tech/attachments/download/4808/GC-result.pdf)
+
+    Comparison of jvm gc. Fantastic job!
+    
+- [Garbage Collection Settings for Elasticsearch Master Nodes](https://dzone.com/articles/garbage-collection-settings-for-elasticsearch-mast)
+    
+    Fine tunine your garbage collector
+    
+- [Understanding G1 GC Log Format](https://dzone.com/articles/understanding-g1-gc-log-format)
+
+    To tune and troubleshoot G1 GC enabled JVMs, one must have a proper understanding of G1 GC log format. This article walks through key things that one should know about the G1 GC log format.
+
+How to start using G1
+```
+#ES_JAVA_OPTS=""
+ES_JAVA_OPTS="-XX:-UseParNewGC -XX:-UseConcMarkSweepGC -XX:+UseG1GC"
+
+```
+
 ## Scalable Infrastructure and performance
 * [The Authoritative Guide to Elasticsearch Performance Tuning (Part 1)](https://qbox.io/blog/authoritative-guide-elasticsearch-performance-tuning-part-1) [Part 2](https://qbox.io/blog/elasticsearch-performance-tuning-part-2-zen) [Part 3](https://qbox.io/index.php?p=blog/authoritative-guide-elasticsearch-performance-tuning-part-3) 
 * [Tuning data ingestion performance for Elasticsearch on Azure](https://azure.microsoft.com/en-us/documentation/articles/guidance-elasticsearch-tuning-data-ingestion-performance/) - and not only for Azure. That's a great article about Elasticsearch Performance testing by example
