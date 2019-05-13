@@ -49,7 +49,7 @@
 * [Knapsack plugin](https://github.com/jprante/elasticsearch-knapsack)  is an "swiss knife" export/import plugin for Elasticsearch
 * [Elasticsearch-Exporter](https://github.com/mallocator/Elasticsearch-Exporter) is a command line script to import/export data from Elasticsearch to various other storage systems
 * [esbulk](https://github.com/miku/esbulk) Parallel elasticsearch bulk indexing utility for the command line.
-* [elasticdump](https://github.com/taskrabbit/elasticsearch-dump) - tools for moving and saving indicies
+* [elasticdump](https://github.com/taskrabbit/elasticsearch-dump) - tools for moving and saving indices
 * [elasticsearch-loader](https://github.com/moshe/elasticsearch_loader) - Tool for loading common file types to elasticsearch including csv, json, and parquet
 
 ### Management
@@ -221,7 +221,7 @@ Streaming Search on Tweets: Storm, Elasticsearch, and Redis
 # Contributing
 * Make sure you are about to post a valuable resource that belongs to this list
 * Do NOT group ++Add and --Remove changes in same PR. Make them separate pull requests
-* Use spellchiker
+* Use spellchecker
 * All spelling and grammar corrections are welcome (except for the rule above)
 * Fork this repo, do your edits, send the pull request
 * Feel free to create any new sections
