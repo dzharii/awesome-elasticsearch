@@ -121,7 +121,7 @@
 
 ## Java tuning
 * [Elasticsearch Java Virtual Machine settings explained](http://jprante.github.io/2012/11/28/Elasticsearch-Java-Virtual-Machine-settings-explained.html)
-* [Tuning Garbage Collection for Mission-Critical Java Applications](http://blog.mgm-tp.com/2013/03/garbage-collection-tuning/)
+* [Tuning Garbage Collection for Mission-Critical Java Applications](https://live.mgm-tp.com/en/tuning-garbage-collection-for-mission-critical-java-applications-tuning-guidelines-for-java-garbage-collection-part-1/)
 * [G1: One Garbage Collector To Rule Them All](http://www.infoq.com/articles/G1-One-Garbage-Collector-To-Rule-Them-All)
 * [Use Lucene’s MMapDirectory on 64bit platforms, please!](http://blog.thetaphi.de/)
 * [Black Magic cookbook](http://product.hubspot.com/blog/g1gc-tuning-your-hbase-cluster)
