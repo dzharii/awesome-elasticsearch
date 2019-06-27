@@ -155,6 +155,7 @@ ES_JAVA_OPTS="-XX:-UseParNewGC -XX:-UseConcMarkSweepGC -XX:+UseG1GC"
   * [How to monitor Elasticsearch with Datadog](https://www.datadoghq.com/blog/monitor-elasticsearch-datadog/)
   * [How to solve 5 Elasticsearch performance and scaling problems](https://www.datadoghq.com/blog/elasticsearch-performance-scaling-problems/)
 * [Performance Monitoring Essentials - Elasticsearch Edition](https://sematext.com/publications/performance-monitoring-essentials-elasticsearch-edition.pdf)
+* [Operator for running Elasticsearch in Kubernetes](https://github.com/zalando-incubator/es-operator)
  
 ### Integrations
 * [Apache Hive integration](https://www.elastic.co/guide/en/elasticsearch/hadoop/current/hive.html)
@@ -232,6 +233,7 @@ Streaming Search on Tweets: Storm, Elasticsearch, and Redis
 [Spotify](https://labs.spotify.com/2015/11/17/monitoring-at-spotify-introducing-heroic/),
 [CERN](https://medium.com/@ghoranyi/needle-in-a-haystack-873c97a99983),
 [NASA](https://www.elastic.co/elasticon/2015/sf/unlocking-interplanetary-datasets-with-real-time-search)
+[Zalando](https://www.elastic.co/fr/videos/creating-the-fashion-experience-of-the-future-with-elasticsearch-at-zalando)
 
 ## I want more! (Elasticsearch related resources)
 * [Technology Explained Blog](https://alexandreesl.com/)
@@ -249,7 +251,7 @@ Streaming Search on Tweets: Storm, Elasticsearch, and Redis
 * Do not even try to add this repo to any awesome-awesome-* lists 
 
 # Contributors
-@dzharii, @...
+@dzharii, @Lyz
  
 #### ← [Awesome TypeScript](https://github.com/dzharii/awesome-typescript) -= Awesome Elasticsearch =- 
 
