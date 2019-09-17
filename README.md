@@ -213,6 +213,7 @@ Streaming Search on Tweets: Storm, Elasticsearch, and Redis
 * [How Elasticsearch powers the Guardian's newsroom](http://www.infoq.com/presentations/elasticsearch-guardian)
 * [Elasticsearch Query Editor in Grafana](https://www.youtube.com/watch?v=hEztaMtobXw)
 * [Scale Your Metrics with Elasticsearch](https://www.youtube.com/watch?v=pZJLlOCuPpg) 2019 by Philipp Krenn (Elastic) optimization tips and tricks
+* [Elasticsearch 7 and Elastic Stack](https://www.manning.com/livevideo/elasticsearch-7-and-elastic-stack) by Frank Kane teaches you to search, analyze, and visualize big data on a cluster with Elasticsearch, Logstash, Beats, Kibana, and more.
 
 ### Advanced
 * [#bbuzz 2015: Adrien Grand – Algorithms and data-structures that power Lucene and Elasticsearch](https://www.youtube.com/watch?v=eQ-rXP-D80U)
