@@ -127,8 +127,6 @@
 * [Use Lucene’s MMapDirectory on 64bit platforms, please!](http://blog.thetaphi.de/)
 * [Black Magic cookbook](http://product.hubspot.com/blog/g1gc-tuning-your-hbase-cluster)
 * [G1GC Fundamentals: Lessons from Taming Garbage Collection](http://product.hubspot.com/blog/g1gc-fundamentals-lessons-from-taming-garbage-collection)
-* [JVM Garbage Collector settings
-investigation](https://tigase.tech/attachments/download/4808/GC-result.pdf) PDF Comparison of JVM GC    
 * [Garbage Collection Settings for Elasticsearch Master Nodes](https://dzone.com/articles/garbage-collection-settings-for-elasticsearch-mast) Fine tunine your garbage collector    
 * [Understanding G1 GC Log Format](https://dzone.com/articles/understanding-g1-gc-log-format) To tune and troubleshoot G1 GC enabled JVMs, one must have a proper understanding of G1 GC log format. This article walks through key things that one should know about the G1 GC log format.
 
@@ -138,6 +136,11 @@ How to start using G1
 ES_JAVA_OPTS="-XX:-UseParNewGC -XX:-UseConcMarkSweepGC -XX:+UseG1GC"
 
 ```
+## Tests
+
+* [JVM Garbage Collector settings
+investigation](https://tigase.tech/attachments/download/4808/GC-result.pdf) PDF Comparison of JVM GC    
+* [The Performance Envelope of Inverted Indexing on Modern Hardware](https://arxiv.org/abs/1910.11028)
 
 ## Scalable Infrastructure and performance
 * [The Authoritative Guide to Elasticsearch Performance Tuning (Part 1)](https://qbox.io/blog/authoritative-guide-elasticsearch-performance-tuning-part-1) [Part 2](https://qbox.io/blog/elasticsearch-performance-tuning-part-2-zen) [Part 3](https://qbox.io/index.php?p=blog/authoritative-guide-elasticsearch-performance-tuning-part-3) 
@@ -252,7 +255,7 @@ Streaming Search on Tweets: Storm, Elasticsearch, and Redis
 * Do not even try to add this repo to any awesome-awesome-* lists 
 
 # Contributors
-@dzharii, @Lyz
+@dzharii, @Lyz, @frutik
  
 #### ← [Awesome TypeScript](https://github.com/dzharii/awesome-typescript) -= Awesome Elasticsearch =- 
 
