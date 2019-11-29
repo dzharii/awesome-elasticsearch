@@ -251,11 +251,7 @@ Streaming Search on Tweets: Storm, Elasticsearch, and Redis
 * All spelling and grammar corrections are welcome (except for the rule above)
 * Fork this repo, do your edits, send the pull request
 * Feel free to create any new sections
-* Add yourself to the "Contributors" section if you will
 * Do not even try to add this repo to any awesome-awesome-* lists 
-
-# Contributors
-@dzharii, @Lyz
  
 #### ← [Awesome TypeScript](https://github.com/dzharii/awesome-typescript) -= Awesome Elasticsearch =- 
 
