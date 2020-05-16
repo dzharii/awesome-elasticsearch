@@ -57,6 +57,7 @@
 
 ### Management
 * [Vulcanizer](https://github.com/github/vulcanizer) - Github's open sourced cluster management library based on Elasticsearch's REST API. Comes with a high level CLI tool
+* [ELKman](https://www.elkman.io) - Commercial ELK Stack management tool, focused on admin, settings, mapping, audit, tuning, and troubleshooting.
 
 ## Elasticsearch plugins
 ### Cluster
