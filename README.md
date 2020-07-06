@@ -19,7 +19,7 @@
 * [frutik/awesome-search](https://github.com/frutik/awesome-search) I am building e-commerce search now. Below are listed some of my build blocks
 
 ## Open-source and free products, based on Elasticsearch 
-* [Fess](https://fess.codelibs.org/index.html) is an open source full featured Enterprise Search, with a web-crawler, 
+* [Fess](https://fess.codelibs.org/index.html) is an open source full featured Enterprise Search, with a web-crawler 
 * [Yelp/elastalert](https://github.com/yelp/elastalert) is a modular flexible rules based alerting system written in Python
 * [etsy/411](https://github.com/etsy/411) - an Alert Management Web Application https://demo.fouroneone.io (credentials: user/user)
 * [appbaseio/mirage](https://github.com/appbaseio/mirage) is a 🔎 GUI for composing Elasticsearch queries
