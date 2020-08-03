@@ -57,6 +57,7 @@
 * [elasticsearch-loader](https://github.com/moshe/elasticsearch_loader) - Tool for loading common file types to elasticsearch including csv, json, and parquet
 
 ### Management
+* [Esctl](https://github.com/jeromepin/esctl) - High-level command line interface to manage Elasticsearch clusters.
 * [Vulcanizer](https://github.com/github/vulcanizer) - Github's open sourced cluster management library based on Elasticsearch's REST API. Comes with a high level CLI tool
 
 ## Elasticsearch plugins
