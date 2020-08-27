@@ -120,6 +120,7 @@
 * [Best Practices in AWS](https://www.elastic.co/guide/en/elasticsearch/plugins/master/cloud-aws-best-practices.html)
 * [How to Secure Elasticsearch and Kibana](https://www.mapr.com/blog/how-secure-elasticsearch-and-kibana) with NGINX, LDAP and SSL :lock:
 * [Elasticsearch server on Webfaction using NGINX with basic authorization and HTTPS protocol](http://joanswork.com/webfaction-elasticsearch-server-tutorial/)
+* [Elasticsearch Guides](https://opster.com/elasticsearch-guides/) Useful Elasticsearch guides with best practices, troubleshooting instructions for errors, tips, examples of code snippets and more.
 
 ### Docker and Elasticsearch
 * [Running an Elasticsearch cluster with Docker](https://stefanprodan.com/2016/elasticsearch-cluster-with-docker/)
@@ -203,6 +204,7 @@ Streaming Search on Tweets: Storm, Elasticsearch, and Redis
 * [Complete Guide to the ELK Stack](http://logz.io/learn/complete-guide-elk-stack/)
 * [logiq](https://github.com/sloniki/logiq) - Simple WebUI Monitoring Tool for Logstash ver. 5.0 and up
 * [ElasticSearch Report Engine](https://malike.github.io/elasticsearch-report-engine/) - An ElasticSearch plugin to return    query results as either PDF,HTML or CSV. 
+* [Elasticsearch Glossary](https://opster.com/elasticsearch-glossary/) - explanations of Elasticsearch terminology, including examples, common best practices and troubleshooting guides for various issues.
 
 ## Videos
 ### Overviews
