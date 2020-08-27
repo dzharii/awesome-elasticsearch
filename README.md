@@ -11,11 +11,15 @@
 * [beats](https://www.elastic.co/products/beats) is the platform for building lightweight, open source data shippers for many types of data you want to enrich with Logstash, search and analyze in Elasticsearch, and visualize in Kibana. 
 
 ## Books
-* [Deep Learning for Search](https://www.manning.com/books/deep-learning-for-search) - teaches you how to leverage neural networks, NLP, and deep learning techniques to improve search performance. (MEAP Nov 2017)
+* [Deep Learning for Search](https://www.manning.com/books/deep-learning-for-search) - teaches you how to leverage neural networks, NLP, and deep learning techniques to improve search performance. (2019)
 * [Relevant Search: with applications for Solr and Elasticsearch](https://www.manning.com/books/relevant-search) - demystifies relevance work. Using Elasticsearch, it teaches you how to return engaging search results to your users, helping you understand and leverage the internals of Lucene-based search engines. (2016) 
 * [Elasticsearch in Action](https://www.manning.com/books/elasticsearch-in-action) - teaches you how to build scalable search applications using Elasticsearch (2015)
 
+## Related (awesome) lists
+* [frutik/awesome-search](https://github.com/frutik/awesome-search) I am building e-commerce search now. Below are listed some of my build blocks
+
 ## Open-source and free products, based on Elasticsearch 
+* [Fess](https://fess.codelibs.org/index.html) is an open source full featured Enterprise Search, with a web-crawler 
 * [Yelp/elastalert](https://github.com/yelp/elastalert) is a modular flexible rules based alerting system written in Python
 * [etsy/411](https://github.com/etsy/411) - an Alert Management Web Application https://demo.fouroneone.io (credentials: user/user)
 * [appbaseio/mirage](https://github.com/appbaseio/mirage) is a 🔎 GUI for composing Elasticsearch queries
@@ -53,6 +57,7 @@
 * [elasticsearch-loader](https://github.com/moshe/elasticsearch_loader) - Tool for loading common file types to elasticsearch including csv, json, and parquet
 
 ### Management
+* [Esctl](https://github.com/jeromepin/esctl) - High-level command line interface to manage Elasticsearch clusters.
 * [Vulcanizer](https://github.com/github/vulcanizer) - Github's open sourced cluster management library based on Elasticsearch's REST API. Comes with a high level CLI tool
 
 ## Elasticsearch plugins
@@ -63,8 +68,9 @@
 * [Elastic HQ](http://www.elastichq.org/) - Elasticsearch cluster management console with live monitoring and beautiful UI
 * [Cerebro](https://github.com/lmenezes/cerebro) is an open source(MIT License) elasticsearch web admin tool. Supports ES 5.x
 * [Kopf](https://github.com/lmenezes/elasticsearch-kopf) - Another management plugin that have REST console and *manual* shard allocation
-* [Search Guard](https://github.com/floragunncom/search-guard) - Elasticsearch security for free
+* [Search Guard](https://github.com/floragunncom/search-guard) - Elasticsearch and elastic stack security and alerting for free
 * [ee-outliers](https://github.com/NVISO-BE/ee-outliers) - ee-outliers is a framework to detect outliers in events stored in an Elasticsearch cluster.
+* [Elasticsearch Comrade](https://github.com/moshe/elasticsearch-comrade) - Elasticsearch admin panel built for ops and monitoring
 
 ### Other
 * [SIREn Join Plugin for Elasticsearch](https://github.com/sirensolutions/siren-join) This plugin extends Elasticsearch with new search actions and a filter query parser that enables to perform a "Filter Join" between two set of documents (in the same index or in different indexes).
@@ -109,7 +115,7 @@
 ## System configuration
 * [A Useful Elasticsearch Cheat Sheet in Times of Trouble](http://logz.io/blog/elasticsearch-cheat-sheet/)
 * [The definitive guide for Elasticsearch on Windows Azure](http://code972.com/blog/2014/07/74-the-definitive-guide-for-elasticsearch-on-windows-azure)
-* [Elasticsearch pre-flight checklist](http://asquera.de/opensource/2012/11/25/elasticsearch-pre-flight-checklist/)
+* [Elasticsearch pre-flight checklist](https://asquera.de/blog/2012-11-25/elasticsearch-pre-flight-checklist/)
 * [9 Tips on Elasticsearch Configuration for High Performance](https://www.loggly.com/blog/nine-tips-configuring-elasticsearch-for-high-performance/)
 * [Best Practices in AWS](https://www.elastic.co/guide/en/elasticsearch/plugins/master/cloud-aws-best-practices.html)
 * [How to Secure Elasticsearch and Kibana](https://www.mapr.com/blog/how-secure-elasticsearch-and-kibana) with NGINX, LDAP and SSL :lock:
@@ -117,7 +123,6 @@
 
 ### Docker and Elasticsearch
 * [Running an Elasticsearch cluster with Docker](https://stefanprodan.com/2016/elasticsearch-cluster-with-docker/)
-* [Docker and elasticsearch blog post series](http://blog.codingtimes.com/tag/elasticSearch/) by blog.codingtimes.com 
 
 ## Java tuning
 * [Elasticsearch Java Virtual Machine settings explained](http://jprante.github.io/2012/11/28/Elasticsearch-Java-Virtual-Machine-settings-explained.html)
@@ -247,11 +252,7 @@ Streaming Search on Tweets: Storm, Elasticsearch, and Redis
 * All spelling and grammar corrections are welcome (except for the rule above)
 * Fork this repo, do your edits, send the pull request
 * Feel free to create any new sections
-* Add yourself to the "Contributors" section if you will
 * Do not even try to add this repo to any awesome-awesome-* lists 
-
-# Contributors
-@dzharii, @Lyz
  
 #### ← [Awesome TypeScript](https://github.com/dzharii/awesome-typescript) -= Awesome Elasticsearch =- 
 
