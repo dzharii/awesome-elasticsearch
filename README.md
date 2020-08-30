@@ -71,6 +71,7 @@
 * [Search Guard](https://github.com/floragunncom/search-guard) - Elasticsearch and elastic stack security and alerting for free
 * [ee-outliers](https://github.com/NVISO-BE/ee-outliers) - ee-outliers is a framework to detect outliers in events stored in an Elasticsearch cluster.
 * [Elasticsearch Comrade](https://github.com/moshe/elasticsearch-comrade) - Elasticsearch admin panel built for ops and monitoring
+* [elasticsearch-admin](https://github.com/stephanediondev/elasticsearch-admin) - Web administration for Elasticsearch
 
 ### Other
 * [SIREn Join Plugin for Elasticsearch](https://github.com/sirensolutions/siren-join) This plugin extends Elasticsearch with new search actions and a filter query parser that enables to perform a "Filter Join" between two set of documents (in the same index or in different indexes).
