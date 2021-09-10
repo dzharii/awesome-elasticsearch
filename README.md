@@ -14,6 +14,7 @@
 * [Deep Learning for Search](https://www.manning.com/books/deep-learning-for-search) - teaches you how to leverage neural networks, NLP, and deep learning techniques to improve search performance. (2019)
 * [Relevant Search: with applications for Solr and Elasticsearch](https://www.manning.com/books/relevant-search) - demystifies relevance work. Using Elasticsearch, it teaches you how to return engaging search results to your users, helping you understand and leverage the internals of Lucene-based search engines. (2016) 
 * [Elasticsearch in Action](https://www.manning.com/books/elasticsearch-in-action) - teaches you how to build scalable search applications using Elasticsearch (2015)
+* [Elasticsearch in Action, Second edition](https://www.manning.com/books/elasticsearch-in-action-second-edition) - hands-on guide to developing fully functional search engines with Elasticsearch and Kibana. (2021)
 
 ## Related (awesome) lists
 * [frutik/awesome-search](https://github.com/frutik/awesome-search) I am building e-commerce search now. Below are listed some of my build blocks
