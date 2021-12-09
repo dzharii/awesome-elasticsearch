@@ -36,6 +36,7 @@
 * [SIAC](https://github.com/citybasebrooks/SIAC) - SIAC is an enterprise SIEM built on the ELK stack and other open-source components.
 * [Sentinl](https://github.com/sirensolutions/sentinl) - Sentinl is a Kibana alerting and reporting app.
 * [Praeco](https://github.com/ServerCentral/praeco/) - Elasticsearch alerting made simple
+* [DataStation](https://github.com/multiprocessio/datastation) - Easily query, script, and visualize data from every database, file, and API.
 
 
 ## Elasticsearch developer tools and utilities
