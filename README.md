@@ -16,6 +16,10 @@
 * [Elasticsearch in Action](https://www.manning.com/books/elasticsearch-in-action) - teaches you how to build scalable search applications using Elasticsearch (2015)
 * [Elasticsearch in Action, Second edition](https://www.manning.com/books/elasticsearch-in-action-second-edition) - hands-on guide to developing fully functional search engines with Elasticsearch and Kibana. (2021)
 
+## Certifications
+### Elastic Certified Engineer
+* [Elastic Certified Engineer notes](https://www.pistocop.dev/posts/es_engineer_exam_notes/) - notes and exercises to prepare the certification exam
+
 ## Related (awesome) lists
 * [frutik/awesome-search](https://github.com/frutik/awesome-search) I am building e-commerce search now. Below are listed some of my build blocks
 
