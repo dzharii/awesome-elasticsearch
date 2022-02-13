@@ -198,7 +198,7 @@ ES_JAVA_OPTS="-XX:-UseParNewGC -XX:-UseConcMarkSweepGC -XX:+UseG1GC"
 
 
 ### Use cases for Elasticsearch
-* [Data Infrastructure at IFTTT](http://engineering.ifttt.com/data/2015/10/14/data-infrastructure/) Elasticsearch, Kafka, Apache Spark, Redhsift, other AWS services 
+* [Data Infrastructure at IFTTT](https://medium.com/engineering-at-ifttt/data-infrastructure-at-ifttt-35414841f9b5) Elasticsearch, Kafka, Apache Spark, Redhsift, other AWS services 
 * [OFAC compliance with Elasticsearch](https://israelwebdev.wordpress.com/2015/01/19/ofac-compliance-with-elasticsearch/) using AWS
 * [Building a Streaming Search Platform](https://blog.insightdatascience.com/building-a-streaming-search-platform-61a0d5a323a8#.f4b0rvae5) - 
 Streaming Search on Tweets: Storm, Elasticsearch, and Redis
@@ -243,7 +243,7 @@ Streaming Search on Tweets: Storm, Elasticsearch, and Redis
 
 ## Who is using elasticsearch?
 [Yelp](http://engineeringblog.yelp.com/2015/10/how-we-use-deep-learning-to-classify-business-photos-at-yelp.html),
-[IFTTT](http://engineering.ifttt.com/data/2015/10/14/data-infrastructure/),
+[IFTTT](https://medium.com/engineering-at-ifttt/data-infrastructure-at-ifttt-35414841f9b5),
 [StackExchange](http://stackexchange.com/performance),
 [Raygun](https://raygun.io/blog/2014/02/search-improvements-at-raygun/),
 [Mozilla](https://www.youtube.com/watch?v=lWKEphKIG8U),
