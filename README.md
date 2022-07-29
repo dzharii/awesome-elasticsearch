@@ -44,7 +44,12 @@
 
 
 ## Elasticsearch developer tools and utilities
- 
+
+### Clients
+
+* [Python Elasticsearch Client](https://elasticsearch-py.readthedocs.io/en/latest/) - Official low-level elasticsearch client for python
+* [Elasticsearch DSL](https://elasticsearch-dsl.readthedocs.io/en/latest/) - High-level python client for Elasticsearch
+
 ### Development and debugging
 * [Sense (from Elastic)](https://github.com/elastic/sense/#sense) A JSON aware developer console to Elasticsearch; official and very powerful
 * [ES-mode](https://github.com/dakrone/es-mode) An Emacs major mode for interacting with Elasticsearch (similar to Sense)
