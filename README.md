@@ -49,6 +49,7 @@
 
 * [Python Elasticsearch Client](https://elasticsearch-py.readthedocs.io/en/latest/) - Official low-level elasticsearch client for python
 * [Elasticsearch DSL](https://elasticsearch-dsl.readthedocs.io/en/latest/) - High-level python client for Elasticsearch
+* [Ruby Elasticsearch Client](https://github.com/elastic/elasticsearch-ruby) - Official low-level elasticsearch client for Ruby
 
 ### Development and debugging
 * [Sense (from Elastic)](https://github.com/elastic/sense/#sense) A JSON aware developer console to Elasticsearch; official and very powerful
