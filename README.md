@@ -54,6 +54,7 @@
 ### Development and debugging
 * [Sense (from Elastic)](https://github.com/elastic/sense/#sense) A JSON aware developer console to Elasticsearch; official and very powerful
 * [ES-mode](https://github.com/dakrone/es-mode) An Emacs major mode for interacting with Elasticsearch (similar to Sense)
+* [OpsGPT](https://checkups.opster.com/ops-gpt): Opster’s free AI-powered chat will assist you with all your queries and concerns related to Elasticsearch. Have a search-related question? Simply ask OpsGPT.
 * [Elasticsearch Cheatsheet](http://elasticsearch-cheatsheet.jolicode.com/) Examples for the most used queries, API and settings for all major version of Elasticsearch
 * [Elasticstat](https://github.com/objectrocket/elasticstat) CLI tool displaying monitoring informations like htop
 * [Elastic for Visual Studio Code](https://github.com/hsen-dev/vscode-elastic) An extension for developing Elasticsearch queries like Kibana and Sense extention in Visual Studio Code
