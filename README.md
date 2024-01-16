@@ -61,6 +61,7 @@
 * [Bodybuilder](https://github.com/danpaz/bodybuilder) A Node.js elasticsearch query body builder
 * [enju](https://github.com/kelp404/enju) A Node.js elasticsearch ORM
 * [Peek](https://github.com/ywangd/peek) An interactive CLI in Python that works like Kibana Console with additional features
+* [Logstash pipeline parser](https://github.com/TomasKoutek/logstash-pipeline-parser) Python Parsing expression grammar (PEG) and Abstract syntax tree (AST) for Logstash pipeline syntax.
 
 ### Import and Export
 * [Knapsack plugin](https://github.com/jprante/elasticsearch-knapsack)  is an "swiss knife" export/import plugin for Elasticsearch
