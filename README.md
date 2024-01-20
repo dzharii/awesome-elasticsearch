@@ -49,6 +49,7 @@
 
 * [Python Elasticsearch Client](https://elasticsearch-py.readthedocs.io/en/latest/) - Official low-level elasticsearch client for python
 * [Elasticsearch DSL](https://elasticsearch-dsl.readthedocs.io/en/latest/) - High-level python client for Elasticsearch
+* [ESORM](https://github.com/wallneradam/esorm) - Python Asyncio ORM based on the famous [Pydantic](https://docs.pydantic.dev/latest/)
 * [Ruby Elasticsearch Client](https://github.com/elastic/elasticsearch-ruby) - Official low-level elasticsearch client for Ruby
 
 ### Development and debugging
