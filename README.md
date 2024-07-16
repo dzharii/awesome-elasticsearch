@@ -41,6 +41,7 @@
 * [Sentinl](https://github.com/sirensolutions/sentinl) - Sentinl is a Kibana alerting and reporting app.
 * [Praeco](https://github.com/ServerCentral/praeco/) - Elasticsearch alerting made simple
 * [DataStation](https://github.com/multiprocessio/datastation) - Easily query, script, and visualize data from every database, file, and API.
+* [DocKit](https://github.com/geek-fun/dockit) - GUI client for elasticsearch to query, manage and visualize your data.
 
 
 ## Elasticsearch developer tools and utilities
