@@ -73,6 +73,7 @@
 * [elasticsearch-loader](https://github.com/moshe/elasticsearch_loader) - Tool for loading common file types to elasticsearch including csv, json, and parquet
 
 ### Management
+- [Pulse for Elasticsearch](https://pulse.support) - Health assessment, alerting, dashboards and support for Elasticsearch clusters. 
 * [Esctl](https://github.com/jeromepin/esctl) - High-level command line interface to manage Elasticsearch clusters.
 * [Vulcanizer](https://github.com/github/vulcanizer) - Github's open sourced cluster management library based on Elasticsearch's REST API. Comes with a high level CLI tool
 
@@ -144,6 +145,7 @@
 * [Running an Elasticsearch cluster with Docker](https://stefanprodan.com/2016/elasticsearch-cluster-with-docker/)
 
 ## Java tuning
+* [Tuning Elasticsearch: Garbage Collection Algorithms](https://bigdataboutique.com/blog/tuning-elasticsearch-garbage-collection-algorithms-1toq2j)
 * [Elasticsearch Java Virtual Machine settings explained](http://jprante.github.io/2012/11/28/Elasticsearch-Java-Virtual-Machine-settings-explained.html)
 * [Tuning Garbage Collection for Mission-Critical Java Applications](https://live.mgm-tp.com/en/tuning-garbage-collection-for-mission-critical-java-applications-tuning-guidelines-for-java-garbage-collection-part-1/)
 * [G1: One Garbage Collector To Rule Them All](http://www.infoq.com/articles/G1-One-Garbage-Collector-To-Rule-Them-All)
