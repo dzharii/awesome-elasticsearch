@@ -131,6 +131,8 @@
 
 ## Articles
 ## System configuration
+* [A Library of Common Elasticsearch Errors](https://pulse.support/kb/common-elasticsearch-errors)
+* [Elasticsearch Query Language (DSL) Reference - Syntax, Examples, and Tips](https://pulse.support/kb/elasticsearch-query-language)
 * [A Useful Elasticsearch Cheat Sheet in Times of Trouble](http://logz.io/blog/elasticsearch-cheat-sheet/)
 * [The definitive guide for Elasticsearch on Windows Azure](http://code972.com/blog/2014/07/74-the-definitive-guide-for-elasticsearch-on-windows-azure)
 * [Elasticsearch pre-flight checklist](https://asquera.de/blog/2012-11-25/elasticsearch-pre-flight-checklist/)
