@@ -3,6 +3,18 @@
 #### ← [Awesome TypeScript](https://github.com/dzharii/awesome-typescript) -= Awesome Elasticsearch =- 
 [![](https://raw.githubusercontent.com/dzharii/awesome-elasticsearch/master/awesome-elastic-logo.png)](https://github.com/dzharii/awesome-elasticsearch)
 
+
+# Archival Note
+
+I launched awesome-elasticsearch in 2016, at a time when Elasticsearch 2.x was just emerging and the AWS managed offering still lagged behind. Back then, version 1.5 was the highest available on AWS and its limitations meant I had to scour articles, blogs and documentation to piece together reliable cluster-management strategies without relying on hosted services.
+
+Over nearly ten years this repository has grown into a comprehensive collection of resources that were invaluable at the time. Many of those materials have since become outdated, community contributions have slowed, and forks and alternative solutions have appeared.
+
+Rather than continue to maintain content that no longer reflects current best practices, I am closing this list and preserving it as a historical reference. Elasticsearch itself remains a vibrant, industry-leading solution for search, analytics, logging and beyond.
+
+My deepest thanks go out to everyone who contributed—whether by submitting pull requests, sharing insights or offering feedback. Your support made this project possible and helped countless others navigate the early days of Elasticsearch.
+
+
 # General
 ## Elastic Stack
 * [Elasticsearch](https://www.elastic.co/) official website 
